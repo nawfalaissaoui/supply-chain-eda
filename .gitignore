@@ -1,0 +1,31 @@
+# Datos (pesados y con columnas de datos personales de clientes): ver data/README.md
+data/*.csv
+data/*.geojson
+!data/cadena_subministrament_2015_2018_diccionari.csv
+
+# Mapas interactivos HTML (20-30 MB cada uno): se regeneran con src/05 o el notebook
+figures/maps/*.html
+
+# Cribado visual completo: se regenera con src/03 (solo se versionan las 3 imágenes que usa el informe)
+figures/exploratory/*
+!figures/exploratory/cat_customer_city.png
+!figures/exploratory/bin_late_delivery_risk.png
+!figures/exploratory/num_sales.png
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# LaTeX
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+
+# Sistema
+.DS_Store
+Thumbs.db

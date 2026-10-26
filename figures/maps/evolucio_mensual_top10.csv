@@ -1,0 +1,38 @@
+month,top1_country,top1_orders,top2_country,top2_orders,top3_country,top3_orders,top4_country,top4_orders,top5_country,top5_orders,top6_country,top6_orders,top7_country,top7_orders,top8_country,top8_orders,top9_country,top9_orders,top10_country,top10_orders
+2015-01,Mexico,1321,Brazil,755.0,El Salvador,428.0,Dominican Republic,419.0,Cuba,358.0,Nicaragua,327.0,Honduras,297.0,Colombia,254.0,Guatemala,241.0,Argentina,185.0
+2015-02,Mexico,1113,Brazil,576.0,Cuba,474.0,Dominican Republic,365.0,El Salvador,330.0,Honduras,308.0,Nicaragua,308.0,Guatemala,281.0,Argentina,243.0,Panama,167.0
+2015-03,Mexico,1453,Brazil,706.0,Dominican Republic,405.0,El Salvador,401.0,Cuba,382.0,Nicaragua,352.0,Honduras,328.0,Panama,229.0,Argentina,228.0,Guatemala,213.0
+2015-04,Mexico,1375,Brazil,529.0,Honduras,451.0,El Salvador,449.0,Cuba,347.0,Guatemala,343.0,Nicaragua,328.0,Dominican Republic,297.0,Panama,250.0,Argentina,186.0
+2015-05,Brazil,1469,Mexico,1145.0,Guatemala,344.0,Dominican Republic,336.0,Honduras,325.0,Cuba,289.0,El Salvador,254.0,Nicaragua,236.0,Panama,182.0,Argentina,154.0
+2015-06,France,1581,Germany,1093.0,United Kingdom,799.0,Italy,586.0,Spain,408.0,Netherlands,225.0,Austria,100.0,Sweden,79.0,Belgium,54.0,Switzerland,47.0
+2015-07,France,1380,Germany,1071.0,United Kingdom,941.0,Spain,577.0,Italy,547.0,Netherlands,220.0,Austria,155.0,Belgium,108.0,Sweden,70.0,Norway,56.0
+2015-08,France,1420,Germany,1150.0,United Kingdom,852.0,Italy,610.0,Spain,338.0,Netherlands,276.0,Austria,141.0,Sweden,135.0,Ireland,80.0,Belgium,56.0
+2015-09,France,1590,Germany,1024.0,United Kingdom,757.0,Italy,614.0,Spain,423.0,Netherlands,179.0,Austria,135.0,Sweden,110.0,Switzerland,70.0,Belgium,57.0
+2015-10,France,1137,Germany,772.0,United Kingdom,605.0,Spain,375.0,Italy,370.0,China,350.0,Australia,331.0,Netherlands,183.0,India,142.0,Indonesia,142.0
+2015-11,Australia,1309,China,993.0,Indonesia,778.0,India,719.0,Philippines,378.0,Pakistan,159.0,Japan,145.0,Thailand,143.0,South Korea,141.0,Singapore,135.0
+2015-12,Australia,1329,China,953.0,India,907.0,Indonesia,766.0,Philippines,356.0,Thailand,147.0,Japan,133.0,Pakistan,127.0,South Korea,104.0,Vietnam,102.0
+2016-01,Australia,1287,China,963.0,India,897.0,Indonesia,717.0,Philippines,340.0,Vietnam,203.0,Malasia,141.0,Bangladés,138.0,Thailand,138.0,Pakistan,114.0
+2016-02,Australia,1159,China,1003.0,India,884.0,Indonesia,524.0,Philippines,321.0,Thailand,165.0,Japan,158.0,Vietnam,145.0,Pakistan,99.0,Malasia,95.0
+2016-03,Australia,1586,New Zealand,1511.0,Indonesia,504.0,China,467.0,India,375.0,Philippines,200.0,Thailand,125.0,Vietnam,97.0,Pakistan,85.0,Bangladés,45.0
+2016-04,United States of America,4938,New Zealand,79.0,Australia,72.0,Indonesia,8.0,,,,,,,,,,,,
+2016-05,United States of America,5302,,,,,,,,,,,,,,,,,,
+2016-06,United States of America,5054,,,,,,,,,,,,,,,,,,
+2016-07,United States of America,5305,,,,,,,,,,,,,,,,,,
+2016-08,United States of America,4241,Turkey,177.0,South Africa,93.0,Nigeria,83.0,Iran,74.0,Morocco,70.0,Irak,57.0,Saudi Arabia,52.0,Egypt,50.0,Canada,47.0
+2016-09,Turkey,668,Nigeria,496.0,Egypt,307.0,Iran,275.0,South Africa,253.0,República Democrática del Congo,245.0,Morocco,215.0,Ukraine,211.0,Canada,193.0,Russia,179.0
+2016-10,Turkey,738,Nigeria,475.0,Iran,393.0,Egypt,246.0,Morocco,237.0,Ukraine,235.0,Russia,220.0,Saudi Arabia,204.0,Irak,203.0,South Africa,199.0
+2016-11,Turkey,595,Nigeria,486.0,Iran,305.0,Morocco,252.0,República Democrática del Congo,249.0,Egypt,237.0,Ukraine,228.0,Canada,219.0,South Africa,219.0,Irak,214.0
+2016-12,Turkey,767,Nigeria,490.0,Iran,255.0,Egypt,238.0,South Africa,226.0,Morocco,221.0,Canada,209.0,Irak,209.0,Ukraine,206.0,República Democrática del Congo,197.0
+2017-01,Mexico,603,Turkey,450.0,Nigeria,279.0,Brazil,242.0,Russia,205.0,Cuba,184.0,El Salvador,176.0,Dominican Republic,164.0,Iran,158.0,Honduras,144.0
+2017-02,Mexico,1311,Brazil,684.0,El Salvador,392.0,Dominican Republic,357.0,Cuba,316.0,Honduras,315.0,Nicaragua,286.0,Guatemala,245.0,Argentina,229.0,Colombia,204.0
+2017-03,Mexico,1318,Brazil,673.0,Dominican Republic,463.0,El Salvador,412.0,Honduras,399.0,Cuba,380.0,Nicaragua,376.0,Panama,244.0,Argentina,225.0,Guatemala,207.0
+2017-04,Mexico,1407,Brazil,694.0,Honduras,455.0,El Salvador,416.0,Dominican Republic,355.0,Cuba,340.0,Nicaragua,329.0,Guatemala,317.0,Panama,207.0,Colombia,192.0
+2017-05,Mexico,1509,Brazil,694.0,Honduras,394.0,Guatemala,387.0,El Salvador,350.0,Cuba,346.0,Dominican Republic,341.0,Nicaragua,263.0,Argentina,211.0,Panama,192.0
+2017-06,Brazil,965,France,686.0,Mexico,617.0,Germany,497.0,United Kingdom,351.0,Honduras,213.0,Spain,196.0,Dominican Republic,167.0,Italy,154.0,Cuba,118.0
+2017-07,France,1615,Germany,1030.0,United Kingdom,868.0,Italy,672.0,Spain,449.0,Netherlands,211.0,Austria,104.0,Sweden,88.0,Belgium,78.0,Portugal,42.0
+2017-08,France,1364,Germany,1249.0,United Kingdom,800.0,Italy,515.0,Spain,436.0,Netherlands,263.0,Austria,179.0,Sweden,147.0,Belgium,102.0,Ireland,68.0
+2017-09,France,1546,Germany,1047.0,United Kingdom,844.0,Italy,607.0,Spain,405.0,Netherlands,162.0,Austria,153.0,Sweden,103.0,Switzerland,59.0,Belgium,56.0
+2017-10,France,696,Germany,457.0,United Kingdom,334.0,Italy,242.0,Spain,177.0,Netherlands,98.0,Austria,56.0,Sweden,46.0,Ireland,38.0,Belgium,36.0
+2017-11,Australia,370,China,292.0,India,191.0,France,171.0,Indonesia,146.0,Germany,142.0,United Kingdom,120.0,Philippines,104.0,Spain,76.0,Italy,66.0
+2017-12,Australia,511,China,376.0,Indonesia,333.0,India,293.0,Philippines,164.0,Pakistan,67.0,Thailand,67.0,Japan,57.0,Singapore,54.0,Vietnam,47.0
+2018-01,Australia,543,India,375.0,China,361.0,Indonesia,286.0,Philippines,123.0,Malasia,59.0,Vietnam,56.0,Thailand,50.0,Pakistan,49.0,South Korea,45.0

@@ -1,0 +1,38 @@
+month,top1_country,top1_orders,top2_country,top2_orders,top3_country,top3_orders
+2015-01,Mexico,1321,Brazil,755.0,El Salvador,428.0
+2015-02,Mexico,1113,Brazil,576.0,Cuba,474.0
+2015-03,Mexico,1453,Brazil,706.0,Dominican Republic,405.0
+2015-04,Mexico,1375,Brazil,529.0,Honduras,451.0
+2015-05,Brazil,1469,Mexico,1145.0,Guatemala,344.0
+2015-06,France,1581,Germany,1093.0,United Kingdom,799.0
+2015-07,France,1380,Germany,1071.0,United Kingdom,941.0
+2015-08,France,1420,Germany,1150.0,United Kingdom,852.0
+2015-09,France,1590,Germany,1024.0,United Kingdom,757.0
+2015-10,France,1137,Germany,772.0,United Kingdom,605.0
+2015-11,Australia,1309,China,993.0,Indonesia,778.0
+2015-12,Australia,1329,China,953.0,India,907.0
+2016-01,Australia,1287,China,963.0,India,897.0
+2016-02,Australia,1159,China,1003.0,India,884.0
+2016-03,Australia,1586,New Zealand,1511.0,Indonesia,504.0
+2016-04,United States of America,4938,New Zealand,79.0,Australia,72.0
+2016-05,United States of America,5302,,,,
+2016-06,United States of America,5054,,,,
+2016-07,United States of America,5305,,,,
+2016-08,United States of America,4241,Turkey,177.0,South Africa,93.0
+2016-09,Turkey,668,Nigeria,496.0,Egypt,307.0
+2016-10,Turkey,738,Nigeria,475.0,Iran,393.0
+2016-11,Turkey,595,Nigeria,486.0,Iran,305.0
+2016-12,Turkey,767,Nigeria,490.0,Iran,255.0
+2017-01,Mexico,603,Turkey,450.0,Nigeria,279.0
+2017-02,Mexico,1311,Brazil,684.0,El Salvador,392.0
+2017-03,Mexico,1318,Brazil,673.0,Dominican Republic,463.0
+2017-04,Mexico,1407,Brazil,694.0,Honduras,455.0
+2017-05,Mexico,1509,Brazil,694.0,Honduras,394.0
+2017-06,Brazil,965,France,686.0,Mexico,617.0
+2017-07,France,1615,Germany,1030.0,United Kingdom,868.0
+2017-08,France,1364,Germany,1249.0,United Kingdom,800.0
+2017-09,France,1546,Germany,1047.0,United Kingdom,844.0
+2017-10,France,696,Germany,457.0,United Kingdom,334.0
+2017-11,Australia,370,China,292.0,India,191.0
+2017-12,Australia,511,China,376.0,Indonesia,333.0
+2018-01,Australia,543,India,375.0,China,361.0
